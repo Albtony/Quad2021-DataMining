@@ -1,5 +1,8 @@
 # Quad2021 Data Mining
-Showcase for my team's works on Quadrathlon 2021 Data Mining
+Showcase for my team's works on Quadrathlon 2021 Data Mining, anggota :
+- Mohammad Fadhil Rasyidin Parinduri (5025201131)
+- Nuzul Abatony (5025201107)
+- Muhammad Ghani Taufiqurrahman Atmaja (5025201110)
 
 ## Tentang Quadrathlon
 Kompetisi Data Mining Quadrathlon adalah kegiatan kompetisi internal tahunan yang diselenggarakan oleh Departemen Keprofesian dan Teknologi HMTC ITS. Kompetisi Quadrathlon sendiri terdiri dari lima cabang, yaitu Competitive Programming, Data Mining, Capture The Flag, Game Development, dan Software Application.
