@@ -13,8 +13,9 @@ Prediksi apakah pembeli akan melakukan pembelian secara online atau tidak. Datas
 Dataset terdiri dari 25 atribut. 13 atribut bernilai String, 3 atribut bernilai integer, 7 atribut bernilai decimal, dan 2 atribut bernilai boolean. Atribut Checkout digunakan sebagai atribut target.
 
 ## Kolom CSV
-| ID                   | identifier unik pengunjung                                                                                                            |
+| Nama Kolom           | Deskripsi Kolom																													   |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| ID                   | identifier unik pengunjung                                                                                                            |
 | Jenis_Kelamin        | Jenis kelamin pengunjung                                                                                                              |
 | Produk               | Jenis halaman produk terkait yang dikunjungi pengunjung dalam sesi tersebut                                                           |
 | Durasi_Produk        | Total waktu yang dihabiskan di halaman produk terkait                                                                                 |
